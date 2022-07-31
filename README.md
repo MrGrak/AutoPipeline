@@ -8,8 +8,8 @@ AutoPipeline isn't a library! it's an example of how to write .mgcb files based 
 you will find the AutoPipeline's code in the above game1.cs file. take this code and modify it to suit your needs. 
 
 the expected workflow is:
-copy paste all your assets (pngs, wavs, fx, bmps, etc) into the content folder.
-run AutoPipeline script to generate a mgcb file.
-open generated mgcb file and build it, then save it.
+- copy paste all your assets (pngs, wavs, fx, bmps, etc) into the content folder.
+- run AutoPipeline script to generate a mgcb file.
+- open generated mgcb file and build it, then save it.
 
 Mit License, 2022.
